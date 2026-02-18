@@ -86,12 +86,12 @@ const Page = () => {
           <section className="w-full flex flex-col md:flex-row items-center gap-2 md:gap-0 justify-center md:justify-center md:items-center">
             <div className="flex flex-col items-center justify-center relative sm:flex-row gap-4">
          
-              <img src={"/button-android.png"} className=" cursor-pointer w-full  z-2 md:w-[250px] hover:bg-blue-800 text-white h-12 px-8"/>
+              <img src={"/button-android.png"} className=" cursor-pointer w-full  z-2 md:w-[250px] text-white h-12 px-8"/>
               <div className="bg-blue-400 absolute animate-ping md:w-[110px] shadow-blue-400 rounded-md h-9"></div>
             </div>
 
              <div className="flex flex-col items-center justify-center relative sm:flex-row gap-4">
-               <img src={"/button-ios.png"} className=" cursor-pointer w-full  z-2 md:w-[250px] hover:bg-blue-800 text-white h-12 px-8"/>
+               <img src={"/button-ios.png"} className=" cursor-pointer w-full  z-2 md:w-[250px] text-white h-12 px-8"/>
               <div className="bg-blue-400 absolute animate-ping md:w-[110px] shadow-blue-400 rounded-md h-9"></div>
         
             </div>
