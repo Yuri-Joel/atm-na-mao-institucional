@@ -64,7 +64,7 @@ const info_ = [
             <div>
               <h4 className="font-bold mb-1 text-white">Sobre a Empresa</h4>
               <ul className="flex pt-2 flex-col mt-5 gap-2 text-gray-400">
-                <li className=""><Link  href="https://suez.ao/"  className="hover:text-emerald-400 transition">suez inovações</Link></li>
+                <li className=""><Link target="_blank" href="https://suez.ao/"  className="hover:text-emerald-400 transition">suez inovações</Link></li>
             
             </ul>
             </div>
@@ -83,7 +83,7 @@ const info_ = [
             <div>
               <h4 className="font-bold mb-4 text-white">Ir para</h4>
               <ul className="flex pt-2 flex-col mt-5 gap-2 text-gray-400">
-                <li className=""><Link  href="https://atmn.ao/"  className="hover:text-emerald-400 transition">ATM na mão web</Link></li>
+                <li className=""><Link target="_blank" href="https://atmn.ao/"  className="hover:text-emerald-400 transition">ATM na mão web</Link></li>
               </ul>
             </div>
 
